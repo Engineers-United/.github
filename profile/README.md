@@ -1,4 +1,4 @@
-![Open Source at Engineers United](https://avatars.githubusercontent.com/u/92074529)
+![Open Source at Engineers United](https://avatars.githubusercontent.com/u/92074530)
 
 ## About Us
 
