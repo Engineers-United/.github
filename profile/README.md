@@ -10,8 +10,8 @@ Right now, open communities are building amazing software together, and there ar
 
 * [The official HackUNT's website](https://github.com/Engineers-United/Website)
 
-Visit [Engineering United Docs](https://opensource.microsoft.com) to learn more!
+Visit [Engineering United Docs](https://engineers-united.github.io) to learn more!
 
 ----
 
-Engineer United projects adopt the [Engineers United Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/). For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/).
+Engineer United projects adopt the [Engineers United Open Source Code of Conduct](https://engineers-united.github.io/codeofconduct/). For more information see the [Code of Conduct FAQ](https://engineers-united.github.io/codeofconduct/faq/).
