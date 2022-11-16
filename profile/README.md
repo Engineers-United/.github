@@ -10,4 +10,4 @@ Right now, we are building amazing software together, and there are excellent op
 
 * [The official HackUNT's website source code](https://github.com/Engineers-United/Website)
 
-Visit [Engineering United Docs](https://engineers-united.github.io) to learn more!
+Visit [Engineering United Docs](https://docs.hackunt.org/) to learn more!
