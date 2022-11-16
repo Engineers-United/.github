@@ -10,4 +10,6 @@ Right now, we are building amazing software together, and there are excellent op
 
 * [The official HackUNT's website source code](https://github.com/Engineers-United/Website)
 
+* [The official HackUNT's judging system](https://github.com/Engineers-United/Judges-United)
+
 Visit [Engineering United Docs](https://docs.hackunt.org/) to learn more!
